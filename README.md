@@ -8,9 +8,11 @@ Branch: CSE (AIML)
 
 Course: Digital Literacy (CSE0001)
 
-Project Overview This project documents my first-year journey as a B.Tech (core) student. I have built a professional portfolio on GitHub, completed Python coding challenges,learned google forms and created guides on cybersecurity and email etiquette.
+Project Overview
+This project documents my first-year journey as a B.Tech (core) student. I have built a professional portfolio on GitHub, completed Python coding challenges,learned google forms and created guides on cybersecurity and email etiquette.
 
-Module summaries Task 1: Digital Literacy Infographics (Canva) I designed visual guides covering research skills, critical thinking, and professional etiquette to help my batchmates navigate the digital world safely and effectively.
+Module summaries
+Task 1: Digital Literacy Infographics (Canva) I designed visual guides covering research skills, critical thinking, and professional etiquette to help my batchmates navigate the digital world safely and effectively.
 
 Task 2: Professional Online Profiles I established my professional identity by setting up GitHub, LinkedIn, and Kaggle accounts to document my four-year journey in AI and Machine Learning.
 
