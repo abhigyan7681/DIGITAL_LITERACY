@@ -34,6 +34,4 @@ Hacker rank: https://www.hackerrank.com/
 
 kaggle: https://www.kaggle.com/
 
-Google Forms: https://docs.google.com/forms/d/e/1FAIpQLSc0g8CbGmTYlPnX0zJXFkTn63tUmyPg6UJKCd7w3XfSwE8loQ/viewform?usp=header
-
 Cybercrime Portal: https://www.cybercrime.gov.in/
