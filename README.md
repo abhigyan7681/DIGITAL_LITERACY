@@ -17,7 +17,7 @@ Task 1: Digital Literacy Infographics (Canva) I designed visual guides covering 
 
 Task 2: Professional Online Profiles I established my professional identity by setting up GitHub, LinkedIn, and Kaggle accounts to document my four-year journey in AI and Machine Learning.
 
-Task 3: Technical Practice & Collaboration I completed Python coding challenges and created a Google Form quiz to test my peers digital awareness and practice real-time data management.
+Task 3: Technical Practice & Collaboration I completed Python coding challenges and created a Google Form quiz to test my peers digital awareness and practice real-time data management. google form link : https://docs.google.com/forms/d/e/1FAIpQLSdA4_bdvFK5ywXbmaJYjJ2Wv5VeaYOD8KJUhyyMaB0zZKhd-Q/viewform?usp=header
 
 Task 4: Professional Communication I drafted formal email templates for assignment extensions and internship inquiries at companies like GreyOrange, focusing on clear subject lines and respectful language.
 
